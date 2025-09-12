@@ -1,13 +1,13 @@
 <!-- Banner (optional, you can replace with your own image) -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:1e3c72,100:2a5298&height=180&section=header&text=Hi%20there%20👋,%20I'm%20Sia&fontSize=40&fontColor=ffffff&animation=twinkling" />
+
 
 ---
 
 ### 🌱 About Me
-- 🚀 Learning **Fullstack Development**  
-- 💻 Exploring: JavaScript • React • Node.js • MongoDB  
-- 🎯 Goal: Build cool projects & grow as a developer  
-- 📚 Sharing my progress here  
+-  Learning **Fullstack Development**  
+-  Exploring: JavaScript • React • Node.js • MongoDB  
+-  Goal: Build cool projects & grow as a developer  
+-  Sharing my progress here  
 
 ---
 
