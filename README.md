@@ -29,19 +29,5 @@
 ---
 
 ### 🚀 Featured Projects
-| Project | Description |
-|---------|-------------|
-| [Repo1](#) | A simple React app |
-| [Repo2](#) | Node.js practice API |
-| [Repo3](#) | Tailwind landing page clone |
-
 ---
-
-### ⚡ Fun
-![GitHub Snake](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
