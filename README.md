@@ -1,19 +1,47 @@
-# Hi there 👋, I'm Sia
-
-🌱 I'm on a journey to become a **Fullstack Developer**.  
-💻 Currently learning: **JavaScript, React, Node.js, MongoDB**  
-🚀 Building projects to practice & share my progress here.  
-📚 Interested in web development, open source, and learning in public.  
+<!-- Banner (optional, you can replace with your own image) -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:1e3c72,100:2a5298&height=180&section=header&text=Hi%20there%20👋,%20I'm%20Sia&fontSize=40&fontColor=ffffff&animation=twinkling" />
 
 ---
 
-### 🔧 Tech I’m exploring
-- Frontend: HTML, CSS, Tailwind, React  
-- Backend: Node.js, Express (learning)  
-- Databases: MongoDB (just starting)  
+### 🌱 About Me
+- 🚀 Learning **Fullstack Development**  
+- 💻 Exploring: JavaScript • React • Node.js • MongoDB  
+- 🎯 Goal: Build cool projects & grow as a developer  
+- 📚 Sharing my progress here  
 
 ---
 
-### 📌 Featured Projects
+### 🔧 Tech I’m Learning
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🤝 Connect with me
+---
+
+### 📊 GitHub Stats
+![Sia's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+---
+
+### 🚀 Featured Projects
+| Project | Description |
+|---------|-------------|
+| [Repo1](#) | A simple React app |
+| [Repo2](#) | Node.js practice API |
+| [Repo3](#) | Tailwind landing page clone |
+
+---
+
+### ⚡ Fun
+![GitHub Snake](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
