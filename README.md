@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Sia
 
-<!--
-**siaAlz/siaalz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm on a journey to become a **Fullstack Developer**.  
+💻 Currently learning: **JavaScript, React, Node.js, MongoDB**  
+🚀 Building projects to practice & share my progress here.  
+📚 Interested in web development, open source, and learning in public.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech I’m exploring
+- Frontend: HTML, CSS, Tailwind, React  
+- Backend: Node.js, Express (learning)  
+- Databases: MongoDB (just starting)  
+
+---
+
+### 📌 Featured Projects
+
+### 🤝 Connect with me
